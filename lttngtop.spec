@@ -2,7 +2,7 @@ Summary:	Interface for reading and browsing LTTng traces
 Summary(pl.UTF-8):	Interfejs do odczytu i przeglądania śladów LTTng
 Name:		lttngtop
 Version:	0.2
-Release:	1
+Release:	2
 License:	GPL v2
 Group:		Applications/System
 Source0:	http://lttng.org/files/lttngtop/%{name}-%{version}.tar.bz2
